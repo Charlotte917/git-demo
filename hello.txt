@@ -1,0 +1,9 @@
+hello shuaige hello git!
+hello shuaige hello git!
+hello shuaige hello git!
+:wq
+hello shuaige hello git!:wq
+
+wq
+:wq
+
